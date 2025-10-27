@@ -1,6 +1,6 @@
 # Dashboard de Campanhas de Marketing
 
-## Instituto Espírita de estudos Allan Kardec
+## Instituto Espírita de Estudos Allan Kardec
 
 Dashboard interativo para visualização e análise de métricas de campanhas de marketing digital.
 
